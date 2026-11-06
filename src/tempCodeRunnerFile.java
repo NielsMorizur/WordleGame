@@ -1,0 +1,1 @@
+BorderFactory.createStrokeBorder(new BasicStroke(2.0f), initBorderColor)
